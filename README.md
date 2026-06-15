@@ -6,7 +6,7 @@ Delivered a comprehensive computational selection and predictive system to optim
 ## 📄 Technical Documentation & Program Results
 Documented the complete computational workflow, algorithm implementation, and final optimization results in a comprehensive technical article. The documentation focuses on the execution of the Python programs, detailing how the Genetic Algorithm and Machine Learning models successfully achieved the targeted KPIs and fitness score improvements.
 
-📄 **[View the Full Project Article Here (via Google Drive)](https://drive.google.com/file/d/1j8vlJmMo97xmfnramkPuGlvpadTAwxXG/view?usp=sharing)**
+📄 **[View the Full Project Article Here (via Google Drive)](https://drive.google.com/file/d/109Ljmn-zRN8XuDlh4G8iYkZkSSt4K4R3/view?usp=sharing)**
 
 ## 🏗️ Data Architecture, Pipeline & Impact
 
