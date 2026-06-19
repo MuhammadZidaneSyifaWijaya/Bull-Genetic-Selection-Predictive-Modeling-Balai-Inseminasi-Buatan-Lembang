@@ -1,4 +1,4 @@
-# 🐄 Livestock Genetic Selection & Predictive Modeling — Balai Inseminasi Buatan Lembang
+# 🐄 Bull Genetic Selection & Predictive Modeling — Balai Inseminasi Buatan Lembang
 
 ## 📌 Project Overview
 Delivered a comprehensive computational selection and predictive system to optimize livestock breeding and nutritional management. The solution implements Python-based Genetic Algorithms for superior bull selection and Machine Learning models for feed ration automation, serving as a core technological upgrade for Balai Inseminasi Buatan (BIB) Lembang to meet national agricultural standards.
